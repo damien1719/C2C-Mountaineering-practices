@@ -1,4 +1,4 @@
-# Data-science-portfolio
+# Data science portfolio
 
 A repository of hobby projects for self-learning
 
